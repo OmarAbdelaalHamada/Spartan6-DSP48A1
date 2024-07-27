@@ -18,5 +18,7 @@ The design includes various features and functionalities as outlined below:
 - **Verilog Code:** The Verilog code is structured to efficiently utilize the DSP48A1 block for performing arithmetic operations.
 - **Testbench:** A comprehensive testbench is created to verify the functionality of the design through simulation.
 - **Synthesis:** The project is synthesized using Vivado, and synthesis reports are provided to showcase the design's performance metrics.
-
+### Prerequisites
+- modelsim 
+- Vivado Design Suite
 
